@@ -32,9 +32,8 @@ I've worked as a doctor, which is really hard.  It involves long hours, an often
 * Confidence working with databases.
 * The knowledge and confidence to work independently, and to find out what I need to know.
 * Experience of and enthusiasm for pair-coding and teamwork.
-* An appreciation of well written code.
+* An appreciation of well written code, and a passion for writing it.
 * A firm belief in TDD and SOLID principles.
-* A love of code.
 
 #### Kensington and Chelsea College
 2014:  National Diploma in Graphic Design (Distinction)
@@ -68,7 +67,7 @@ I've worked as a doctor, which is really hard.  It involves long hours, an often
 **WWOOFing**   
 I have volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain and Morrocco.    
 **Travel**  
-I have spent many happy student summers backpacking around Europe, as well as in North and South America, and have lived in Spain and China.  I have a very long list of places to go once I have a bigger budget!   
+I have spent many happy student summers backpacking around Europe, North America and South America, and have lived in Spain and China.  I have a very long list of places to go once I have a bigger budget!   
 **Reading**   
 Anything and everything.  
 **Art and Design**   
