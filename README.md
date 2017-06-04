@@ -8,7 +8,7 @@ I'm good at learning - getting to grips with unfamiliar tools and languages, hun
 
 #### Learning
 
-I'm intellectually curious and enjoy developing new skills.  Those I've tackled in the past include teaching, two years working as a Junior Doctor, designing, animal care and gardening.  
+I'm intellectually curious and enjoy developing new skills.  Those I've tackled in the past include teaching, working as a Junior Doctor, designing, animal care and gardening.  
 
 #### Creativity
 
