@@ -34,6 +34,7 @@ I've worked as a doctor, which is really hard.  It involves long hours, an often
 * Experience of and enthusiasm for pair-coding and teamwork.
 * An appreciation of well written code, and a passion for writing it.
 * A firm belief in TDD and SOLID principles.
+* See <a href="https://github.com/allbecauseyoutoldmeso">my profile page </a> for the projects I enjoyed most, and <a href="">here </a>for a timeline of my learning over the past thirteen weeks.
 
 #### Kensington and Chelsea College
 2014:  National Diploma in Graphic Design (Distinction)
