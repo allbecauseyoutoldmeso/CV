@@ -26,11 +26,11 @@ I've worked as a doctor, which is really hard.  It involves long hours, an often
 
 #### Makers Academy
 
-* A solid grounding in Ruby and Javascript along with relevant testing frameworks.
+* A solid grounding in Ruby and JavaScript (plus jQuery) along with relevant testing frameworks.
 * A working knowledge of HTML and CSS.
 * Competence with Sinatra, Rails and Node.js.
 * Confidence working with databases.
-* The knowledge and confidence to work independently, and to find out what I need to know.
+* The knowledge and confidence to work independently, and to find out what I need to know.  For our final project me and my intrepid team taught ourselves about web VR, learned how to write an Alexa skill...and figured out how to link them up, with some pretty cool results (<a href="https://github.com/allbecauseyoutoldmeso/spaceship">see here</a>).
 * Experience of and enthusiasm for pair-coding and teamwork.
 * An appreciation of well written code, and a passion for writing it.
 * A firm belief in TDD and SOLID principles.
