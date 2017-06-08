@@ -72,4 +72,4 @@ I have spent many happy student summers backpacking around Europe, North America
 **Reading**   
 Anything and everything.  
 **Art and Design**   
-You can see some a few of my projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
+You can see a few of my projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
