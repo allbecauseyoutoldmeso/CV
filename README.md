@@ -4,37 +4,20 @@ I'm a freshly minted Makers Academy graduate with a love of programming, program
 
 I'm good at learning - getting to grips with unfamiliar tools and languages, hunting down answers to difficult questions, and sometimes just nagging at a problem until it surrenders.   
 
-## Skills
-
-#### Learning
-
-I'm intellectually curious and enjoy developing new skills.  Those I've tackled in the past include teaching, working as a Junior Doctor, designing, animal care and gardening.  
-
-#### Creativity
-
-I have an original and arguably overactive imagination and I like to use it!  
-
-#### Adaptability
-
-I've worked in a lot of diverse environments, from hospitals and schools to toyshops and organic farms.  I lived in a caravan in a field full of donkeys once.   
-
-#### Resilience
-
-I've worked as a doctor, which is really hard.  It involves long hours, an often relentless work load, and making really difficult, sometimes genuinely life or death, decisions.  Medicine wasn't for me, in the end, but it has taught me to handle hard work.
+Skills I've tackled in the past include teaching, working as a Junior Doctor, graphic design, animal care and organic farming.  I love fresh challenges, and am good at adapting to new environments.  
 
 ## Education
 
 #### Makers Academy
 
 * A solid grounding in Ruby and JavaScript (plus jQuery) along with relevant testing frameworks.
-* A working knowledge of HTML and CSS.
+* A good working knowledge of HTML and CSS.
 * Competence with Sinatra, Rails and Node.js.
 * Confidence working with databases.
-* The knowledge and confidence to work independently, and to find out what I need to know.  For our final project I and my intrepid team taught ourselves about web VR, learned how to write an Alexa skill...and figured out how to link them up, with some pretty cool results (<a href="https://github.com/allbecauseyoutoldmeso/spaceship">see here</a>).
 * Experience of and enthusiasm for pair-coding and teamwork.
-* An appreciation of well written code, and a passion for writing it.
 * A firm belief in TDD and SOLID principles.
-* See <a href="https://github.com/allbecauseyoutoldmeso">my profile page </a> for the projects I enjoyed most, and <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">here </a>for selected snapshots from my learning over the past four months.
+* The knowledge and confidence to work independently, and to find out what I need to know.  For our final project I and my intrepid team taught ourselves about web VR, learned how to write an Alexa skill...and figured out how to link them up, with <a href="https://github.com/allbecauseyoutoldmeso/spaceship">some pretty cool results</a>.
+* See <a href="https://github.com/allbecauseyoutoldmeso">my profile page</a> for the projects I enjoyed most, and <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">here</a>for selected snapshots from my learning over the past four months.
 
 #### Kensington and Chelsea College
 2014:  National Diploma in Graphic Design (Distinction)
@@ -62,14 +45,13 @@ I've worked as a doctor, which is really hard.  It involves long hours, an often
 **After Noah and Honeyjam**   
 *Part-time toyshop assistant, on and off, over many years as a student.*
 
-
 ## Hobbies and Interests
 
 **WWOOFing**   
 I have volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain and Morrocco.    
 **Travel**  
-I have spent many happy student summers backpacking around Europe, North America and South America, and have lived in Spain and China.  I have a very long list of places to go once I have a bigger budget!   
+Past and future!   
 **Reading**   
 Anything and everything.  
 **Art and Design**   
-You can see a few of my projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
+You can see a few of my graphic design projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
