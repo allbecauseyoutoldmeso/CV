@@ -4,12 +4,12 @@ I'm a freshly minted Makers Academy graduate with a love of programming, program
 
 I'm good at learning - getting to grips with unfamiliar tools and languages, hunting down answers to difficult questions, and sometimes just nagging at a problem until it surrenders.   
 
-Skills I've tackled in the past include teaching, working as a Junior Doctor, graphic design, animal care and organic farming.  I love fresh challenges, and am good at adapting to new environments.  
+Skills I've tackled in the past include teaching, working as a Junior Doctor, graphic design, animal care and organic farming.  I love fresh challenges, and I'm good at adapting to new environments.  
 
 ## Education
 
 #### Makers Academy
-* A solid grounding in Ruby and JavaScript (plus jQuery) along with relevant testing frameworks.
+* A solid grounding in Ruby and JavaScript along with relevant testing frameworks.
 * Familiarity with common front-end languages, and with web app frameworks such as Rails and Node.js.
 * Experience of and enthusiasm for pair-coding and teamwork.
 * A firm belief in TDD.
