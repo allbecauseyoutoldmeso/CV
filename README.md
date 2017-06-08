@@ -9,7 +9,6 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 ## Education
 
 #### Makers Academy
-
 * A solid grounding in Ruby and JavaScript (plus jQuery) along with relevant testing frameworks.
 * Familiarity with common front-end languages, and with web app frameworks such as Rails and Node.js.
 * Experience of and enthusiasm for pair-coding and teamwork.
@@ -43,7 +42,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 **After Noah and Honeyjam**   
 *Part-time toyshop assistant, on and off, over many years as a student.*
 
-## Hobbies and Interests
+## Extracurricular
 
 **WWOOFing**   
 I have volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain and Morrocco.    
