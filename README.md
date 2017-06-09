@@ -1,6 +1,7 @@
 ## Kate Gleeson
 
-<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a>
+<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">Evolution as a developer</a>
+
 
 I'm a freshly minted Makers Academy graduate with a love of programming, programming and programming.  Most especially of producing clean, elegant and resilient code.  For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
@@ -8,7 +9,7 @@ I'm good at learning - getting to grips with unfamiliar tools and languages, hun
 
 Skills I've tackled in the past include teaching, working as a Junior Doctor, graphic design, animal care and organic farming.  I love fresh challenges and I'm good at adapting to new environments.  
 
-<a id='eductation'></a>
+<a id='education'></a>
 ## Education
 
 #### Makers Academy
@@ -32,6 +33,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 #### Cambridge University
 2003:  BA Hons English Literature 2:1
 
+<a id='experience'></a>
 ## Experience
 
 **Colchester Hospital University Foundation Trust** (August 2015 - August 2016)    
@@ -45,6 +47,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 **After Noah and Honeyjam**   
 *Part-time toyshop assistant, on and off, over many years as a student.*
 
+<a id='extracurricular'></a>
 ## Extracurricular
 
 **WWOOFing**   
