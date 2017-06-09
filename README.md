@@ -60,4 +60,4 @@ You can see a few of my graphic design projects <a href="https://www.behance.net
 
 ##
 
-<img src='https://user-images.githubusercontent.com/25392162/26982535-a0aa6d68-4d30-11e7-864f-06648cdea28e.png'>
+<a href='https://www.linkedin.com/in/kate-gleeson-957059145'><img width='10px' height='10px' src='https://user-images.githubusercontent.com/25392162/26982535-a0aa6d68-4d30-11e7-864f-06648cdea28e.png'></a>
