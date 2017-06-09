@@ -1,6 +1,6 @@
 ## Kate Gleeson
 
-<a href='https://github.com/allbecauseyoutoldmeso/CV#education'
+<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a>
 
 I'm a freshly minted Makers Academy graduate with a love of programming, programming and programming.  Most especially of producing clean, elegant and resilient code.  For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
