@@ -1,11 +1,14 @@
 ## Kate Gleeson
 
+<a href='https://github.com/allbecauseyoutoldmeso/CV#education'
+
 I'm a freshly minted Makers Academy graduate with a love of programming, programming and programming.  Most especially of producing clean, elegant and resilient code.  For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
 I'm good at learning - getting to grips with unfamiliar tools and languages, hunting down answers to difficult questions, and sometimes just nagging at a problem until it surrenders.   
 
 Skills I've tackled in the past include teaching, working as a Junior Doctor, graphic design, animal care and organic farming.  I love fresh challenges and I'm good at adapting to new environments.  
 
+<a id='eductation'></a>
 ## Education
 
 #### Makers Academy
