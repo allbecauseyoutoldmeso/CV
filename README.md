@@ -60,4 +60,4 @@ You can see a few of my graphic design projects <a href="https://www.behance.net
 
 ##
 
-![linkedin-256]
+<img src='https://user-images.githubusercontent.com/25392162/26982535-a0aa6d68-4d30-11e7-864f-06648cdea28e.png'>
