@@ -12,7 +12,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 * A solid grounding in Ruby and JavaScript along with relevant testing frameworks.
 * Familiarity with common front-end languages and with web app frameworks such as Rails and Node.js.
 * Experience of and enthusiasm for pair-coding and teamwork.
-* A firm belief in TDD.  Although sometimes spiking code is fun.  Or a desperate measure when you enter a new dimension...
+* A firm belief in TDD.  
 * The understanding and confidence to work independently and to find out what I need to know.  For our final project I and my intrepid team taught ourselves about web VR, learned how to write an Alexa skill...and figured out how to link them up, with <a href="https://github.com/allbecauseyoutoldmeso/spaceship">some pretty cool results</a>.
 * See <a href="https://github.com/allbecauseyoutoldmeso">my profile page</a> for the projects I enjoyed most, and <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">here</a> for selected snapshots from my learning over the past four months.
 
