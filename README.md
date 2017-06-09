@@ -2,7 +2,6 @@
 
 <a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">Evolution as a developer</a>
 
-
 I'm a freshly minted Makers Academy graduate with a love of programming, programming and programming.  Most especially of producing clean, elegant and resilient code.  For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
 I'm good at learning - getting to grips with unfamiliar tools and languages, hunting down answers to difficult questions, and sometimes just nagging at a problem until it surrenders.   
@@ -42,7 +41,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 *Junior Doctor (F1)*  
 **English Summer, Vallclara, Spain**  (June - September 2006)  
 *Teacher of English as a Foreign Language*  
-**Thames School of Languages, Huizou, China** (February 2005 - February 2006)  
+**Thames School of Languages, Huizou, China** (February 2005 - October 2006)  
 *Teacher of English as a Foreign Language*  
 **After Noah and Honeyjam**   
 *Part-time toyshop assistant, on and off, over many years as a student.*
@@ -58,3 +57,7 @@ Past and future!
 Anything and everything.  
 **Art and Design**   
 You can see a few of my graphic design projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
+
+##
+
+![linkedin-256]

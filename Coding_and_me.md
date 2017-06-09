@@ -5,7 +5,7 @@
 | <a href="https://github.com/allbecauseyoutoldmeso/gilded_rose">Gilded Rose</a> | Practise tech test |  Makers Academy week 10 |  
 | <a href="https://github.com/allbecauseyoutoldmeso/tic_tac_toe">Ruby Tic Tac Toe</a> | Practise tech test |  Makers Academy week 10 |  
 | <a href="https://github.com/allbecauseyoutoldmeso/Bank-tech-test">Bank Account</a> | Practise tech test |  Makers Academy week 10 |  
-| <a href="https://github.com/allbecauseyoutoldmeso/beatroute">Beatroute</a> | App for generating a location-themed playlist |  Makers Academy practise project week |     
+| <a href="https://github.com/allbecauseyoutoldmeso/beatroute">Beatroute</a> | App for generating a location-themed Spotify playlist |  Makers Academy practise project week |     
 | <a href="https://github.com/allbecauseyoutoldmeso/instagram-challenge">Instagram-A-Like</a> | Rails app |  Makers Academy week 8 |  
 | <a href="https://github.com/allbecauseyoutoldmeso/news-app">Nippy News</a> | Vanilla JavaScript news app  |  Makers Academy week 7 |       
 | <a href="https://github.com/allbecauseyoutoldmeso/bnb">EEEK BnB</a> | Air BnB style app  |  Makers Academy group project |     
