@@ -1,5 +1,6 @@
 | Project | What | When |  
 | ---- |---- | ----|  
+| <a href="https://github.com/allbecauseyoutoldmeso/game_of_life">Conway's Game of Life</a> | Practise tech test | This week| 
 | <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | This week|   
 | <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Last week |  
 | <a href="https://github.com/allbecauseyoutoldmeso/spaceship">Spaceship</a> | Space in a box! | Makers Academy final project |  
