@@ -46,18 +46,6 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 **After Noah and Honeyjam**   
 *Part-time toyshop assistant, on and off, over many years as a student.*
 
-<a id='extracurricular'></a>
-## Extracurricular
-
-**WWOOFing**   
-I've volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain and Morrocco.    
-**Travel**  
-Past and future!   
-**Reading**   
-Anything and everything.  
-**Art and Design**   
-You can see a few of my graphic design projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
-
 <a id='evolution'></a>
 ## Evolution as a Developer
 
@@ -84,6 +72,17 @@ Some of my favourite things from the past four months.
 | <a href="https://github.com/allbecauseyoutoldmeso/Boris-Bikes">Boris bikes</a> | Learning backend logic  |  Makers Academy week 1 |      
 | <a href="https://github.com/allbecauseyoutoldmeso/learn-to-program">Chris Pine: Learn to Program</a> | Where it all started  |  Makers Academy precourse |      
 
+<a id='extracurricular'></a>
+## Extracurricular
+
+**WWOOFing**   
+I've volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain and Morrocco.    
+**Travel**  
+Past and future!   
+**Reading**   
+Anything and everything.  
+**Art and Design**   
+You can see a few of my graphic design projects <a href="https://www.behance.net/ALLBECAUSEa6c2">here</a>.
 
 ##
 
