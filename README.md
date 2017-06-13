@@ -1,6 +1,6 @@
 ## Kate Gleeson
 
-<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">Evolution as a developer</a>
+<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV#evolution">Evolution as a developer</a>
 
 I'm a freshly minted Makers Academy graduate with a love of programming, programming and programming.  Most especially of producing clean, elegant and resilient code.  For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
@@ -17,7 +17,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 * Experience of and enthusiasm for pair-coding and teamwork.
 * A firm belief in TDD.  
 * The understanding and confidence to work independently and to find out what I need to know.  For our final project I and my intrepid team taught ourselves about web VR, learned how to write an Alexa skill...and figured out how to link them up, with <a href="https://github.com/allbecauseyoutoldmeso/spaceship">some pretty cool results</a>.
-* See <a href="https://github.com/allbecauseyoutoldmeso">my profile page</a> for the projects I enjoyed most, and <a href="https://github.com/allbecauseyoutoldmeso/CV/blob/master/Coding_and_me.md">here</a> for selected snapshots from my learning over the past four months.
+* See <a href="https://github.com/allbecauseyoutoldmeso">my profile page</a> for the projects I enjoyed most, and <a href="https://github.com/allbecauseyoutoldmeso/CV#evolution">here</a> for selected snapshots from my learning over the past four months.
 
 #### Kensington and Chelsea College
 2014:  National Diploma in Graphic Design (Distinction)
