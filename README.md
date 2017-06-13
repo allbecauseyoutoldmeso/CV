@@ -1,6 +1,6 @@
 ## Kate Gleeson
 
-<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV#evolution">Evolution as a developer</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a> 
+<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV#evolution">Evolution as a developer</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a>
 
 I'm a freshly minted Makers Academy graduate with a love of programming, programming and programming.  Most especially of producing clean, elegant and resilient code.  For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
@@ -49,7 +49,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 <a id='evolution'></a>
 ## Evolution as a Developer
 
-Some of my favourite things from the past four months.                    
+A chronological presentation of my favourite things from the past four months.                    
 
 | Project | What | When |  
 | ---- |---- | ----|  
