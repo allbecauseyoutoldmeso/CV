@@ -39,7 +39,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 *Junior Doctor (F2)*  
 **Barts Health NHS Trust** (August 2014-August 2015)   
 *Junior Doctor (F1)*  
-**English Summer, Vallclara, Spain**  (June - September 2006)  
+**English Summer, Vallclara, Spain**  (June 2006 - September 2006)  
 *Teacher of English as a Foreign Language*  
 **Thames School of Languages, Huizou, China** (February 2005 - October 2005)  
 *Teacher of English as a Foreign Language*  
