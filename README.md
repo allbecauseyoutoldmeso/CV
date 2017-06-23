@@ -53,14 +53,11 @@ A chronological representation of some of my favourite things from the past four
 
 | Project | What | When |  
 | ---- |---- | ----|  
-| <a href="https://github.com/allbecauseyoutoldmeso/game_of_life">Conway's Game of Life</a> | Practise tech test | Last week|
-| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Last week|
-| <a href="https://github.com/allbecauseyoutoldmeso/mornington_crescent">Mornington Crescent</a> | Alexa meets Radio 4 | Last week|   
+| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Last week|  
 | <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Two weeks back |  
 | <a href="https://github.com/allbecauseyoutoldmeso/spaceship">Spaceship</a> | Space in a box! | Makers Academy final project |  
 | <a href="https://github.com/allbecauseyoutoldmeso/gilded_rose">Gilded Rose</a> | Practise tech test |  Makers Academy week 10 |  
-| <a href="https://github.com/allbecauseyoutoldmeso/tic_tac_toe">Ruby Tic Tac Toe</a> | Practise tech test |  Makers Academy week 10 |  
-| <a href="https://github.com/allbecauseyoutoldmeso/Bank-tech-test">Bank Account</a> | Practise tech test |  Makers Academy week 10 |  
+| <a href="https://github.com/allbecauseyoutoldmeso/tic_tac_toe">Ruby Tic Tac Toe</a> | Practise tech test |  Makers Academy week 10 |   
 | <a href="https://github.com/allbecauseyoutoldmeso/beatroute">Beatroute</a> | App for generating a location-themed Spotify playlist |  Makers Academy practise project week |     
 | <a href="https://github.com/allbecauseyoutoldmeso/instagram-challenge">Instagram-A-Like</a> | Rails app |  Makers Academy weekend 8 challenge |  
 | <a href="https://github.com/allbecauseyoutoldmeso/news-app">Nippy News</a> | Vanilla JavaScript news app  |  Makers Academy week 7 |       
