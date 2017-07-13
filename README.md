@@ -52,10 +52,10 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 A chronological representation of some of my favourite things from the past four months:                    
 
 | Project | What | When |  
-| ---- |---- | ----|  
-| <a href="https://github.com/allbecauseyoutoldmeso/apple_tree">Apple Tree</a> | Play wordgames with Sinatra | Last week|
-| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Two weeks back|  
-| <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Three weeks back |  
+| ---- |---- | ----|
+| <a href="https://github.com/allbecauseyoutoldmeso/apple_tree">Apple Tree</a> | Play wordgames with Sinatra | Two weeks back |
+| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Four weeks back|  
+| <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Six weeks back |  
 | <a href="https://github.com/allbecauseyoutoldmeso/spaceship">Spaceship</a> | Space in a box! | Makers Academy final project |  
 | <a href="https://github.com/allbecauseyoutoldmeso/gilded_rose">Gilded Rose</a> | Practise tech test |  Makers Academy week 10 |  
 | <a href="https://github.com/allbecauseyoutoldmeso/tic_tac_toe">Ruby Tic Tac Toe</a> | Practise tech test |  Makers Academy week 10 |   
