@@ -53,10 +53,11 @@ A chronological representation of some of my favourite things from the past five
 
 | Project | What | When |  
 | ---- |---- | ----|
-| <a href="https://github.com/allbecauseyoutoldmeso/call_my_bluff">Call My Bluff</a> | More wordgames! | This week |
-| <a href="https://github.com/allbecauseyoutoldmeso/apple_tree">Apple Tree</a> | Play wordgames with Sinatra | Two weeks back |
-| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Four weeks back|  
-| <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Six weeks back |  
+| <a href="https://github.com/allbecauseyoutoldmeso/we_three_messaging">We Three Messaging</a> | Rails messaging app | This week |
+| <a href="https://github.com/allbecauseyoutoldmeso/call_my_bluff">Call My Bluff</a> | More wordgames! | Two weeks back |
+| <a href="https://github.com/allbecauseyoutoldmeso/apple_tree">Apple Tree</a> | Play wordgames with Sinatra | Four weeks back |
+| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Six weeks back|  
+| <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Eight weeks back |  
 | <a href="https://github.com/allbecauseyoutoldmeso/spaceship">Spaceship</a> | Space in a box! | Makers Academy final project |  
 | <a href="https://github.com/allbecauseyoutoldmeso/gilded_rose">Gilded Rose</a> | Practise tech test |  Makers Academy week 10 |  
 | <a href="https://github.com/allbecauseyoutoldmeso/tic_tac_toe">Ruby Tic Tac Toe</a> | Practise tech test |  Makers Academy week 10 |   
