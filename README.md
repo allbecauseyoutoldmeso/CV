@@ -49,7 +49,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 <a id='evolution'></a>
 ## Evolution as a Developer
 
-A chronological representation of some of my favourite things from the past five months:                    
+A few chronological snapshots since Christmas 2016:                    
 
 | Project | What | When |  
 | ---- |---- | ----|
