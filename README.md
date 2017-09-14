@@ -12,7 +12,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 ## Education
 
 #### Makers Academy
-* An intensive twelve-week grounding in OOP, TDD, and google fu. 
+* An intensive twelve-week grounding in OOP, TDD and google fu. 
 * See <a href="https://github.com/allbecauseyoutoldmeso">my profile page</a> for the projects I enjoyed most, and <a href="https://github.com/allbecauseyoutoldmeso/CV#evolution">below</a> for selected snapshots from my learning over the past four months.
 
 #### Kensington and Chelsea College
