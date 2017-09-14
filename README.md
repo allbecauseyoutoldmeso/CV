@@ -12,7 +12,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 ## Education
 
 #### Makers Academy
-* An intensive twelve-week grounding in OOP, TDD and google fu. 
+2017:  An intensive twelve-week grounding in OOP, TDD and google fu. 
 
 #### Kensington and Chelsea College
 2014:  National Diploma in Graphic Design (Distinction)
