@@ -30,16 +30,16 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 <a id='experience'></a>
 ## Experience
 
-**Colchester Hospital University Foundation Trust** (August 2015 - August 2016)    
-*Junior Doctor (F2)*  
-**Barts Health NHS Trust** (August 2014-August 2015)   
-*Junior Doctor (F1)*  
-**English Summer, Vallclara, Spain**  (June 2006 - September 2006)  
-*Teacher of English as a Foreign Language*  
-**Thames School of Languages, Huizou, China** (February 2005 - October 2005)  
-*Teacher of English as a Foreign Language*  
-**After Noah and Honeyjam**   
-*Part-time toyshop assistant, on and off, over many years as a student.*
+#### Colchester Hospital University Foundation Trust (August 2015 - August 2016)    
+Junior Doctor (F2)  
+#### Barts Health NHS Trust (August 2014-August 2015)   
+Junior Doctor (F1)  
+#### English Summer, Vallclara, Spain (June 2006 - September 2006)  
+Teacher of English as a Foreign Language  
+#### Thames School of Languages, Huizou, China (February 2005 - October 2005)  
+Teacher of English as a Foreign Language 
+#### After Noah and Honeyjam  
+Part-time toyshop assistant, on and off, over many years as a student.
 
 <a id='evolution'></a>
 ## Evolution as a Developer
