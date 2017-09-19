@@ -13,17 +13,13 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 
 #### Makers Academy
 2017:  An intensive twelve-week grounding in OOP, TDD and google fu. 
-
 #### Kensington and Chelsea College
 2014:  National Diploma in Graphic Design (Distinction)
-
 #### King’s College London
 2013:  Medical Bachelor and Bachelor of Surgery.  Passed with Distinction in Medical Sciences.  
 2007:  Conversion Programme in Natural Sciences.
-
 #### Universal Language Training, Woking
 2004:  Trinity TESOL (Teaching English to Speakers of Other Languages) Certificate
-
 #### Cambridge University
 2003:  BA Hons English Literature 2:1
 
