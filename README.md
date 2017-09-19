@@ -11,30 +11,30 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 <a id='education'></a>
 ## Education
 
-#### Makers Academy
+**Makers Academy**
 2017:  An intensive twelve-week grounding in OOP, TDD and google fu. 
-#### Kensington and Chelsea College
+**Kensington and Chelsea College**
 2014:  National Diploma in Graphic Design (Distinction)
-#### King’s College London
+**King’s College London**
 2013:  Medical Bachelor and Bachelor of Surgery.  Passed with Distinction in Medical Sciences.  
 2007:  Conversion Programme in Natural Sciences.
-#### Universal Language Training, Woking
+**Universal Language Training, Woking**
 2004:  Trinity TESOL (Teaching English to Speakers of Other Languages) Certificate
-#### Cambridge University
+**Cambridge University**
 2003:  BA Hons English Literature 2:1
 
 <a id='experience'></a>
 ## Experience
 
-#### Colchester Hospital University Foundation Trust (August 2015 - August 2016)    
+**Colchester Hospital University Foundation Trust (August 2015 - August 2016)**    
 Junior Doctor (F2)  
-#### Barts Health NHS Trust (August 2014-August 2015)   
+**Barts Health NHS Trust (August 2014-August 2015)**   
 Junior Doctor (F1)  
-#### English Summer, Vallclara, Spain (June 2006 - September 2006)  
+**English Summer, Vallclara, Spain (June 2006 - September 2006)**  
 Teacher of English as a Foreign Language  
-#### Thames School of Languages, Huizou, China (February 2005 - October 2005)  
+**Thames School of Languages, Huizou, China (February 2005 - October 2005)**  
 Teacher of English as a Foreign Language 
-#### After Noah and Honeyjam  
+**After Noah and Honeyjam**  
 Part-time toyshop assistant, on and off, over many years as a student.
 
 <a id='evolution'></a>
