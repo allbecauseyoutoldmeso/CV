@@ -44,7 +44,6 @@ A few chronological snapshots since Christmas 2016:
 
 | Project | What | When |  
 | ---- |---- | ----|
-| <a href="https://github.com/allbecauseyoutoldmeso/we_three_messaging">We Three Messaging</a> | Rails messaging app | A project in my free time |
 | <a href="https://github.com/allbecauseyoutoldmeso/apple_tree">Apple Tree</a> | Play wordgames with Sinatra | Jobhunting... |
 | <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Jobhunting...|  
 | <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Jobhunting... |  
