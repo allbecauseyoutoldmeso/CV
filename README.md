@@ -1,12 +1,33 @@
 ## Kate Gleeson
 
-<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href="https://github.com/allbecauseyoutoldmeso/CV#evolution">Evolution as a developer</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a>
+<a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a>
+
+Full stack developer working primarily with Ruby on Rails.
 
 For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
 I'm good at learning - getting to grips with unfamiliar tools and languages, hunting down answers to difficult questions, and sometimes just nagging at a problem until it surrenders.   
 
 Skills I've tackled in the past include teaching, working as a Junior Doctor, graphic design, animal care and organic farming.  I love fresh challenges and I'm good at adapting to new environments.  
+
+<a id='experience'></a>
+## Experience
+
+**Thoughtbot (November 2019 - Present)**
+Developer
+**Resolver (August 2017 - November 2019)**
+Developer (Feburary 2019 – November 2019)
+Junior Developer (August 2017 – February 2019)
+**Colchester Hospital University Foundation Trust (August 2015 - August 2016)**            
+Junior Doctor         
+**Barts Health NHS Trust (August 2014-August 2015)**            
+Junior Doctor        
+**English Summer, Vallclara, Spain (June 2006 - September 2006)**           
+Teacher of English as a Foreign Language          
+**Thames School of Languages, Huizou, China (February 2005 - October 2005)**         
+Teacher of English as a Foreign Language             
+**After Noah and Honeyjam**        
+Part-time toyshop assistant, on and off, over many years as a student. 
 
 <a id='education'></a>
 ## Education
@@ -21,40 +42,7 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 **Universal Language Training, Woking**       
 2004:  Trinity TESOL (Teaching English to Speakers of Other Languages) Certificate       
 **Cambridge University**        
-2003:  BA Hons English Literature 2:1          
-
-<a id='experience'></a>
-## Experience
-
-**Colchester Hospital University Foundation Trust (August 2015 - August 2016)**            
-Junior Doctor (F2)         
-**Barts Health NHS Trust (August 2014-August 2015)**            
-Junior Doctor (F1)         
-**English Summer, Vallclara, Spain (June 2006 - September 2006)**           
-Teacher of English as a Foreign Language          
-**Thames School of Languages, Huizou, China (February 2005 - October 2005)**         
-Teacher of English as a Foreign Language             
-**After Noah and Honeyjam**        
-Part-time toyshop assistant, on and off, over many years as a student.        
-
-<a id='evolution'></a>
-## Evolution as a Developer
-
-A few chronological snapshots since Christmas 2016:                    
-
-| Project | What | When |  
-| ---- |---- | ----|
-| <a href="https://github.com/allbecauseyoutoldmeso/apple_tree">Apple Tree</a> | Play wordgames with Sinatra | Jobhunting... |
-| <a href="https://github.com/allbecauseyoutoldmeso/flying_teacup">Flying Teacup</a> | Experimenting with Three.js and Blender | Jobhunting...|  
-| <a href="https://github.com/allbecauseyoutoldmeso/alexa_tic_tac_toe">Alexa Tic Tac Toe</a> | Play Tic-Tac-Toe with Alexa | Jobhunting... |  
-| <a href="https://github.com/allbecauseyoutoldmeso/gilded_rose">Gilded Rose</a> | Practise tech test |  Makers Academy week 10 |  
-| <a href="https://github.com/allbecauseyoutoldmeso/tic_tac_toe">Ruby Tic Tac Toe</a> | Practise tech test |  Makers Academy week 10 |   
-| <a href="https://github.com/allbecauseyoutoldmeso/beatroute">Beatroute</a> | App for generating a location-themed Spotify playlist |  Makers Academy practise project week |     
-| <a href="https://github.com/allbecauseyoutoldmeso/instagram-challenge">Instagram-A-Like</a> | Rails app |  Makers Academy weekend 8 challenge |     
-| <a href="https://github.com/allbecauseyoutoldmeso/bowling-challenge-2">Bowling</a> | Single page JavaScript bowling app  |  Makers Academy weekend 5 challenge |        
-| <a href="https://github.com/allbecauseyoutoldmeso/thermostat-challenge">Thermobat</a> | Introduction to JavaScript  |  Makers Academy week 5 |        
-| <a href="https://github.com/allbecauseyoutoldmeso/chitter-challenge">Chitter</a> | Social networking app using Sinatra and Postgres |  Makers Academy weekend 4 challenge |      
-| <a href="https://github.com/allbecauseyoutoldmeso/rps-challenge">Rock Paper Scissors Lizard Spock</a> | Rock Paper Scissors but better |  Makers Academy weekend 3 challenge |           
+2003:  BA Hons English Literature 2:1    
 
 <a id='extracurricular'></a>
 ## Extracurricular
