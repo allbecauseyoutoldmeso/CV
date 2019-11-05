@@ -13,12 +13,12 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 <a id='experience'></a>
 ## Experience
 
-**Thoughtbot (November 2019 - Present)**
-Developer
-**Resolver (August 2017 - November 2019)**
-Developer (Feburary 2019 – November 2019)
-Junior Developer (August 2017 – February 2019)
-**Colchester Hospital University Foundation Trust (August 2015 - August 2016)**            
+**Thoughtbot (November 2019 - Present)**     
+Developer     
+**Resolver (August 2017 - November 2019)**     
+Developer (Feburary 2019 – November 2019)     
+Junior Developer (August 2017 – February 2019)     
+**Colchester Hospital University Foundation Trust (August 2015 - August 2016)**                 
 Junior Doctor         
 **Barts Health NHS Trust (August 2014-August 2015)**            
 Junior Doctor        
