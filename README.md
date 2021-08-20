@@ -2,7 +2,7 @@
 
 <a href='https://github.com/allbecauseyoutoldmeso/CV#education'>Education</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#experience'>Experience</a> | <a href='https://github.com/allbecauseyoutoldmeso/CV#extracurricular'>Extracurricular</a>
 
-Full stack developer working primarily with Ruby on Rails.
+Full stack developer working primarily with Ruby on Rails and React.
 
 For me coding is about building one simple, logical solution on top of another until I have something amazing.
 
