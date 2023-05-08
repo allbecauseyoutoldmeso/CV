@@ -13,7 +13,10 @@ Skills I've tackled in the past include teaching, working as a Junior Doctor, gr
 <a id='experience'></a>
 ## Experience
 
-**thoughtbot (November 2019 - Present)**     
+**Unboxed (October 2021 - December 2022)**  
+Senior Developer (April 2022 - December 2022)     
+Developer (October 2021 - April 2022)     
+**thoughtbot (November 2019 - October 2021)**     
 Developer     
 **Resolver (August 2017 - November 2019)**     
 Developer (Feburary 2019 – November 2019)     
