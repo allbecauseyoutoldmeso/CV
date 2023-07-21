@@ -51,7 +51,7 @@ Part-time toyshop assistant, on and off, over many years as a student.
 ## Extracurricular
 
 **WWOOFing**   
-I've volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain and Morrocco.    
+I've volunteered extensively as a <a href="http://wwoof.net">Willing Worker On Organic Farms</a> in Italy, Spain, Australia and Morrocco.    
 **Travel**  
 Past and future!   
 **Reading**   
